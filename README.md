@@ -1,11 +1,11 @@
-#Rest Architecture App
-###Requirements:
+# Rest Architecture App
+### Requirements:
 * JDK 18 
 * Apache Tomcat 10.0
 * PostgreSQL
 * RabbitMQ 3.11.4
 * Erlang/OTP 25.1.2
-###Launch instructions
+### Launch instructions
 1. Run script.sql for DB creation
 2. Start RabbitMQ service.
 3. Start PostgresQL service.
